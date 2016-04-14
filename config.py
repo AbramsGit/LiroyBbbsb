@@ -1,0 +1,3 @@
+#Bot token
+
+token = 'token'
